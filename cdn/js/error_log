@@ -1,0 +1,29 @@
+[25-Apr-2020 11:41:59 UTC] PHP Warning:  file_get_contents(https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/gtag.php on line 3
+[25-Apr-2020 11:42:18 UTC] PHP Warning:  file_get_contents(https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/gtag.php on line 3
+[25-Apr-2020 11:42:37 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[03-Jun-2020 11:08:02 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[03-Jun-2020 11:08:02 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[05-Jun-2020 12:51:23 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[05-Jun-2020 12:51:23 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[08-Jun-2020 13:12:52 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[08-Jun-2020 13:12:52 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[10-Jun-2020 08:44:57 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[10-Jun-2020 08:44:57 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[30-Jun-2020 09:39:10 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[30-Jun-2020 09:39:10 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[02-Jul-2020 19:55:32 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[02-Jul-2020 19:55:32 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[05-Jul-2020 21:19:52 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[05-Jul-2020 21:19:52 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[03-Aug-2020 15:31:44 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[11-Aug-2020 15:20:59 UTC] PHP Warning:  file_get_contents(https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/gtag.php on line 3
+[11-Aug-2020 15:21:12 UTC] PHP Warning:  file_get_contents(https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/gtag.php on line 3
+[11-Aug-2020 15:21:12 UTC] PHP Warning:  file_get_contents(https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/gtag.php on line 3
+[14-Aug-2020 22:31:33 UTC] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[14-Aug-2020 22:31:33 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[14-Aug-2020 22:31:33 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: operation failed in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[06-Oct-2020 23:05:15 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: Connection timed out in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[15-Oct-2020 18:26:00 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[15-Oct-2020 18:26:00 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[09-Dec-2020 17:47:49 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3
+[18-Dec-2020 16:13:31 UTC] PHP Warning:  file_get_contents(https://consent.cookiebot.com/uc.js): failed to open stream: HTTP request failed!  in /home/proxyscr/cdn.proxyscrape.com/js/cookiebot.php on line 3

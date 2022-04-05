@@ -1,0 +1,12 @@
+[25-Jan-2021 22:09:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url_get_contents() in /home/customer/www/proxyscrape.com/public_html/share.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/proxyscrape.com/public_html/share.php on line 47
+[04-Apr-2021 15:25:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/proxyscrape.com/public_html/home.php on line 4
+[04-Apr-2021 15:25:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/proxyscrape.com/public_html/home.php on line 4
+[29-Nov-2021 16:53:11 UTC] PHP Fatal error:  Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(//run/svnserve): failed to open dir: Permission denied in /home/customer/www/proxyscrape.com/public_html/zip.php:21
+Stack trace:
+#0 [internal function]: RecursiveDirectoryIterator->__construct('//run/svnserve', 0)
+#1 /home/customer/www/proxyscrape.com/public_html/zip.php(21): RecursiveDirectoryIterator->getChildren()
+#2 {main}
+  thrown in /home/customer/www/proxyscrape.com/public_html/zip.php on line 21

